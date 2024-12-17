@@ -93,7 +93,7 @@ html {
 
 .background {
   background-color: white;
-  background: rgba(0, 0, 0, 0.7) url(/img/Fields.jpg);
+  background: rgba(0, 0, 0, 0.7) url('../img/Fields.jpg');
   background-size: cover;
   background-blend-mode: darken;
 }
